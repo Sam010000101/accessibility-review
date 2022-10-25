@@ -1,21 +1,29 @@
-# Accessibility Focus
+# HTML CSS Git Challenge: Code Refactor
 
 ## Description 
 
-The Horiseon webpage was fine visually however is was missing key accessibility features. Inspection of the index.html & style.css revealed that the page was missing key accessibility features and some of the code was inefficient.
+The starter version of the Horiseon webpage was fine visually however is was missing key accessibility features. Inspection of the index.html & style.css files revealed that the page was missing key accessibility features, additionally some of the code was unnecessary and could be 'coded out' for the page to render as intended whilst improving overall efficiency.
 
-In order to inprove accessibility, to assist anyone relying on accessibility features I have reviewed the HTML and CSS and developed a more accessible webpage with more streamlined code.
-
-What problem does it solve? What did you learn? What makes your project stand out? 
-
-Here is the deployed site;
-
-https://sam010000101.github.io/accessibility-focus/
+In order to improve accessibility and enhance the user experience for those relying on accessibility features, I have reviewed both HTML and CSS developing a more accessible webpage with more streamlined code.
 
 
-## Table of Contents (Optional)
+During this project I learned about;
+<ul>
+    <li><strong>Semantic Elements</strong> to improve accessibility & accurately describe the purpose of the elements on a web page.</li>
+    <li><strong>HTML Comments</strong> as a means of describing code to help explain what the code is doing.</li>
+    <li><strong>Code Simplification</strong> to 'code-out' unnessary code and make it more streamlined.</li>
+</ul>
 
-If your README is very long, add a table of contents to make it easy for users to find what they need.
+
+### Result - <br>
+<i>The webpage is now more accessible to everyone & should also benefit from imroved SEO as a result of the changes implemented!</i>
+
+
+### Here is the deployed site; 
+https://sam010000101.github.io/accessibility-review/
+
+
+## Table of Contents
 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -25,7 +33,7 @@ If your README is very long, add a table of contents to make it easy for users t
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+N/A
 
 
 ## Usage 
@@ -41,39 +49,52 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+This project was created in collaboration with my teamates, big shouts out to;
+    <li>Victor  Biscio https://github.com/reinkaoss</li>
+    <li>Vittoria Bugana https://github.com/vbugana</li>
+    <li>Adama Sall</li>
+    <li>Chris-Eric Dagbo</li>
 
 
 ## License
 
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
+MIT License
+
+Copyright (c) 2022 Sam Brooke
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE
 
 
 ---
 
-🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
 ## Badges
 
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+![badmath](https://img.shields.io/badge/-Accessibility%20Compliant%20HTML%20-blue)
 
 ## Features
 
 If your project has a lot of features, consider adding a heading called "Features" and listing them there.
 
-## Contributing
-
-If you created an application or package and would like other developers to contribute it, you will want to add guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own.
-
 ## Tests
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them.
+Final landing page deployed, fully functional after all elements have been properly replaced. 
+![Horiseon webpage](/assets/images/screenshot3.jpg)
 
 ---
 
