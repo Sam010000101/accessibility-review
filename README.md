@@ -94,7 +94,7 @@ If your project has a lot of features, consider adding a heading called "Feature
 ## Tests
 
 Final landing page deployed, fully functional after all elements have been properly replaced. 
-![Horiseon webpage](/assets/images/screenshot3.jpg)
+![Horiseon webpage](./assets/images/screenshot3.png)
 
 ---
 
