@@ -37,14 +37,14 @@ N/A
 
 
 ## Usage 
+In order to comply with accessibility guidelines, each image was given an alt tag and description, see example below;
 
-Provide instructions and examples for use. Include screenshots as needed. 
+![alt text](./assets/images/screenshot-1.jpg)
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Comments have been added to the index.html to explain what the html is doing in key segments. Generic div tags were also replaced with appropriate HTML tags, such as "main", "section", "aside" etc.
 
-```md
-![alt text](assets/images/screenshot.png)
-```
+![alt text](./assets/images/screenshot-2.jpg)
+
 
 
 ## Credits
